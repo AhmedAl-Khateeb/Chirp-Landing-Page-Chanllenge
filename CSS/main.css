@@ -1,0 +1,270 @@
+
+/*Start Header*/
+header{
+    background-color:  #fbf8f3;
+}
+
+.navbar{
+    background-color:  #fbf8f3;
+    width: 100%;
+    position: fixed;
+}
+
+.navbar .navbar-brand{
+    color:royalblue;
+    font-weight: bold;
+    margin-left: 120px;
+}
+
+.navbar li .nav-link{
+    color: black;
+    font-weight: 700;
+    margin-left: 25px;
+    padding-left: 20px;
+}
+
+.btn-1{
+    margin-right: 165px;
+    width: 80%;
+    height: 7vh;
+}
+
+.slider{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.number-1{
+    color: darkcyan;
+    font-weight: bold;
+}
+.number-2{
+    color: darkcyan;
+    font-weight: bold;
+}
+
+/*========PHOTO===========*/
+.users{
+    display: block;
+    position: relative;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.users img{
+    position: absolute;
+}
+
+
+.users .photo-9{
+    left: 0;
+}
+.users .photo-8{
+    left: 20px;
+}
+.users .photo-7{
+    left: 40px;
+}
+.users .photo-6{
+    left: 60px;
+}
+.users .photo-5{
+    left: 80px;
+}
+.users .photo-4{
+    left: 100px;
+}
+.users .photo-3{
+    left: 120px;
+}
+.users .photo-2{
+    left: 140px;
+}
+.users .photo-1{
+    left: 160px;
+}
+
+/*Finish Header*/
+
+/* <!--   Start Firest Chapter  --> */
+
+
+.row .col-lg-6 .section-1 {
+    color: black;
+    font-size: 50px;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+}
+
+.row .icons i{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+.row .col-lg-6 .col-12{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px 15px;
+    margin-bottom: 35px;
+}
+
+.row .col-lg-6 .col-12 h3{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.row .col-lg-6 .col-12 p{
+    font-style: italic;
+    color: #737373;
+}
+
+
+
+/* <!--   Finish Firest Chapter  --> */
+/*==========Start Section-3=======*/
+
+
+.section-3{
+    background-color:lightblue;
+}
+
+.col-12 h2{
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.col-lg-4 .col-12{
+    border-radius: 5px;
+    padding: 20px 20px;
+    background-color: white;
+}
+
+.col-lg-4 .col-2 img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.col-8 .mb-0{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.col-8 .mm{
+    color: #737373;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.col-12 p{
+    color: #737373;
+    /* margin-top: 10px; */
+    font-family: sans-serif;
+}
+
+.float-left {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.float-right{
+    float: right;
+    color: #737373;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+/*==========Finish Section-3=======*/
+/* <!--Start Section-4--> */
+.section-4{
+    background-color: white;
+}
+
+.section-4 .container .row .section-4-text h2{
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section-4 .container .row .section-4-text p{
+    color: #737373;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.section-4 .container .small-card .col-lg-6{
+    border: 1px solid orange;
+    border-radius: 15px;
+    background-color: #fbf8f3;
+    padding: 40px 50px 20px;
+}
+
+.section-4 .container .small-card .col-lg-6 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkred;
+    font-weight: 400;
+}
+
+
+.section-4 .container .small-card .col-lg-6  .one{
+    font-size: 35px;
+}
+
+.section-4 .container .small-card .col-lg-6  span{
+    font-size: 50px;
+    color: black;
+}
+
+hr{
+    color: #737373;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.section-4 .container .small-card .col-lg-6 .text-center  .btn{
+    background-color: whitesmoke;
+    color: black;
+    margin-top: 15px;
+    padding: 15px 15px;
+}
+/* <!--End Section-4--> */
+
+
+/* <!--Start Section-5--> */
+
+footer{
+    background-color: lightblue;
+}
+
+footer .container .col-3 a{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+footer .container .col-9 .two a{
+    float: right;
+    font-size: 25px;
+    color: black;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+footer .container .col-9 .two img{
+    margin-right: 60px;
+    float: right;
+    margin-top: 20px;
+}
+
+/* <!--End Section-5--> */
